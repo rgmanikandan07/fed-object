@@ -1,0 +1,46 @@
+var mobile={
+    brand:"realme",
+    model:"Narzo",
+    Ram:"4Gb"
+}
+console.log("Mobile");
+
+var Tv={
+    brand:"Samsung",
+    model:"E213",
+    prize:"30k",
+    size:"30ing"
+}
+console.log("Tv");
+
+var labtop={
+    brand:"Lenovo",
+    model:"E41",
+    price:"free",
+    color:"blackk"
+}
+console.log("labtop");
+
+var bike={
+    brand:"Honda",
+    price:"1 laks",
+    color:"redd"
+    model:"Activa"
+}
+console.log("Bike");
+
+var Car={
+    brand:"Toyodo",
+    price:"5laks",
+    model:"Glanza",
+    color:"purple"
+}
+console.log("Car")
+
+var Headset={
+    brand:"Realme",
+    type:"blutooth",
+    price:"400",
+    color:"Yellow"
+}
+console.log("Headset")
