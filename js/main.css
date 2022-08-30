@@ -1,89 +1,89 @@
 var mobile={
     brand:"realme",
     model:"Narzo",
-    Ram:"4Gb"
-}
-console.log("Mobile");
+    Ram:"4Gb",
+};
+console.log(mobile)
 
 var Tv={
     brand:"Samsung",
     model:"E213",
     prize:"30k",
-    size:"30ing"
-}
-console.log("Tv");
+    size:"30ing",
+};
+console.log(Tv)
 
 var labtop={
     brand:"Lenovo",
     model:"E41",
     price:"free",
-    color:"blackk"
-}
-console.log("labtop");
+    color:"blackk",
+};
+console.log(labtop)
 
 var bike={
     brand:"Honda",
     price:"1 laks",
-    color:"redd"
-    model:"Activa"
-}
-console.log("Bike");
+    color:"redd",
+    model:"Activa",
+};
+console.log(bike)
 
 var Car={
     brand:"Toyodo",
     price:"5laks",
     model:"Glanza",
-    color:"purple"
-}
-console.log("Car")
+    color:"purple",
+};
+console.log(Car)
 
 var Headset={
     brand:"Realme",
     type:"blutooth",
     price:"400",
-    color:"Yellow"
-}
-console.log("Headset");
+    color:"Yellow",
+};
+console.log(Headset)
 
 var Bag={
     brand:"finencyy",
     price:"1000",
     color:"redd"
-    type:"travel bag"
-}
-console.log("Bag");
+    type:"travel bag",
+};
+console.log(Bag)
 
 var Note={
     brand:"orange",
     size:"one quere",
     price:"30",
-    color:"White paper"
-}
-console.log("Note");
+    color:"White paper",
+};
+console.log(Note)
 
 var cycle={
     brand:"Hercules",
     type:"Big",
     price:"10k",
-    color:"black"
-}
-console.log("cycle");
+    color:"black",
+};
+console.log(cycle)
 
 var watch={
     brand:"fastrack",
     type:"handwatch",
     price:"300",
-    color:"White"
-}
-console,log("watch");
+    color:"White",
+};
+console,log(watch)
 
 var shirt={
     brand:"Lygra",
     size:"L",
     price:"400",
-    color:"Blue"
-}
-console.log("shirt");
+    color:"Blue",
+};
+console.log(shirt)
 
 var 
 
