@@ -49,7 +49,7 @@ var Bag={
     brand:"finencyy",
     price:"1000",
     color:"redd"
-    type:"travel bag",
+    type:"travel",
 };
 console.log(Bag)
 
