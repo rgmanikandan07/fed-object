@@ -43,4 +43,59 @@ var Headset={
     price:"400",
     color:"Yellow"
 }
-console.log("Headset")
+console.log("Headset");
+
+var Bag={
+    brand:"finencyy",
+    price:"1000",
+    color:"redd"
+    type:"travel bag"
+}
+console.log("Bag");
+
+var Note={
+    brand:"orange",
+    size:"one quere",
+    price:"30",
+    color:"White paper"
+}
+console.log("Note");
+
+var cycle={
+    brand:"Hercules",
+    type:"Big",
+    price:"10k",
+    color:"black"
+}
+console.log("cycle");
+
+var watch={
+    brand:"fastrack",
+    type:"handwatch",
+    price:"300",
+    color:"White"
+}
+console,log("watch");
+
+var shirt={
+    brand:"Lygra",
+    size:"L",
+    price:"400",
+    color:"Blue"
+}
+console.log("shirt");
+
+var 
+
+
+
+
+
+
+
+
+
+
+
+
+
