@@ -1,0 +1,35 @@
+.container{
+	width:1300px;
+	height:400px;
+}
+.header h4{
+	text-align:center;
+	color:lightblue;
+}
+.header h2{
+	text-align:center;
+	color:darkblue;
+}
+.allimg{
+	display:flex;
+}
+.allimg img{
+	width:240px;
+	margin-left:20px;
+	padding:30px;
+}
+.allimg .one{
+	margin-top:10px;
+	box-shadow:12px 12px 12px #e5def4; 
+}
+.allimg .one h5{
+	text-align:center;
+}
+.allimg .one h4{
+	color:darkblue;
+	text-align:center;
+}
+.allimg .one p{
+	text-align:center;
+	font-style :italic;
+}
